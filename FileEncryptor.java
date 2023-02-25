@@ -25,6 +25,7 @@ public class FileEncryptor {
         } else {
             System.out.println("Invalid operation specified.");
         }
+        scanner.close();
     }
 
     public static void encryptFolder(Path folder) {
