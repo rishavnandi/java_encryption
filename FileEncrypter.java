@@ -5,7 +5,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class FileEncryptor {
+public class FileEncrypter {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
